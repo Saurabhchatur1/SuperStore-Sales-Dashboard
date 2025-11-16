@@ -1,7 +1,7 @@
 
 # Excel Interactive Super Store Sales Dashboard
 
-![Dashboard Preview]([images/Dashboard.png](https://github.com/Saurabhchatur1/SuperStore-Sales-Dashboard/blob/2e7a097f16415861faec6594984e0f50bb2bccd4/Sales%20Dashboard.png))
+![Dashboard Preview](https://github.com/Saurabhchatur1/SuperStore-Sales-Dashboard/blob/f0b23d8503d61eaa1adc4a5a2e0b7a54b0c21432/Sales%20Dashboard.png)
 
 # Project Overview
 
